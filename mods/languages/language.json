@@ -1,0 +1,16 @@
+{
+    "font" : "NotoSansJP-VariableFont_wght.ttf",
+    "Univ maker" : "大學maker",
+    "Start Game" : "ゲーム開始",
+    "Start" : "開始",
+    "Stop" : "停止",
+    "Press ESC to go back" : "ESCで戻ります",
+    "Save Data" : "保存",
+    "Load Data" : "ロード",
+    "Back to Start" : "スタートに戻る",
+    "Select a saved game" : "ロードするゲームデータを選んでください",
+    "The selected file may be in a different format or corrupted" : "選択されたファイルは形式が異なるか、破損しています",
+    "error" : "エラー",
+    "mod_ON" : "mod 有効",
+    "mod_OFF" : "mod 無効"
+}

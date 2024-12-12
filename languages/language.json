@@ -1,0 +1,16 @@
+{
+    "font" : "Roboto-Light.ttf",
+    "Univ maker" : "Univ maker",
+    "Start Game" : "Start Game",
+    "Start" : "Start",
+    "Stop" : "Stop",
+    "Press ESC to go back" : "Press ESC to go back",
+    "Save Data" : "Save Data",
+    "Load Data" : "Load Data",
+    "Back to Start" : "Back to Start",
+    "Select a saved game" : "Select a saved game",
+    "The selected file may be in a different format or corrupted" : "The selected file may be in a different format or corrupted",
+    "error" : "error",
+    "mod_ON" : "mod ON",
+    "mod_OFF" : "mod OFF"
+}
